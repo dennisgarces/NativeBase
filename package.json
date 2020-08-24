@@ -87,7 +87,7 @@
   "readmeFilename": "README.md",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GeekyAnts/NativeBase.git"
+    "url": "git+https://github.com/dennisgarces/NativeBase.git"
   },
   "collective": {
     "type": "opencollective",
